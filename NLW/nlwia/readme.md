@@ -69,4 +69,4 @@ Contribuições são bem-vindas. Sinta-se à vontade para abrir problemas (issue
 ## Licença
 Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para obter mais detalhes.
 
-Desenvolvido com ❤️ por Mateus Duarte
+###### Desenvolvido com ❤️ por Mateus Duarte
